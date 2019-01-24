@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BuscaCEP</string>
+    <string name="btPesquisar">Pesquisar</string>
+    <string name="digitecep">Digite o CEP</string>
+    <string name="carregandodados">Carregando os dados...</string>
+    <string name="mensagemerro">"Erro ao buscar o CEP"</string>
+</resources>
